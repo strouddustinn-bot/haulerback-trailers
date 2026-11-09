@@ -3,7 +3,7 @@
 Static marketing site for **Haul 'Er Back Trailers** (Ottawa enclosed trailers).
 
 - Landing / waitlist, models, pricing (unit costs & rent-based break-even), licensing checklist
-- Custom domain: `haulerbacktrailers.dustinnstroud.com`
+- Custom domain: `strouddustinn-bot.github.io/haulerback-trailers`
 - **GitHub Pages:** publish the `public/` folder (or set Pages source to `/` if this repo root *is* the site)
 
 ## Local preview
