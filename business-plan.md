@@ -37,6 +37,22 @@ See [models](models.html) for sizes, weights, and brake notes.
 - Direct outreach to contractors with Wrap as the hook
 - Local shows and dealer consignment
 
+## Jobsite 612 Lite — first prototype cost (steel)
+
+First build is **steel**. Aluminum welding gear is deferred and is **not** part of the first trailer's cost.
+
+| Line | Estimate (CAD) |
+|------|----------------|
+| Materials + parts | ~$4,500 |
+| Labour | $1,400–$2,800 |
+| Overhead (shop consumables, small tools, freight on parts, etc.) | $500–$1,000 |
+| **Total first-build cost** | **~$6,400–$8,300** |
+| Target selling price at ~30% profit margin (price = cost ÷ 0.70) | **~$9,100–$11,900** |
+
+**Deferred — not in first trailer cost:** aluminum welding gear ($4,000–$8,000) is a later shop purchase. Do not fold it into prototype materials, unit cost, or the target selling price.
+
+See also the [pricing page](pricing.html).
+
 ## Customer financing
 
 Buyers can finance or lease trailers through **third-party** lenders once Haul 'Er Back is set up as a dealer merchant. This is customer credit at point of sale — not company funding.
@@ -83,6 +99,6 @@ See [pricing](pricing.html) for unit costs/margins and trailers-per-month break-
 
 1. Finalize Jobsite 612 Lite design
 2. Professional visual mockup
-3. Prototype cost estimate from real quotes
+3. Lock steel prototype quotes (materials ~$4,500; aluminium welding gear deferred)
 4. Complete licensing path (NSM, Class A, etc.)
 5. Apply to Financeit + LendCare merchant programs after Class A is in hand
